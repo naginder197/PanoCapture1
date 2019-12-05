@@ -1,0 +1,6 @@
+framework module Wormhole {
+  umbrella header "Wormhole.h"
+
+  export *
+  module * { export * }
+}
